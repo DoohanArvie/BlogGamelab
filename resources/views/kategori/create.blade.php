@@ -44,8 +44,12 @@
                         </div>
                     </form>
                 </div>
-            </div>      
+            </div>
           </div>
+          <!-- /.col-md-6 -->
+        </div>
+        <!-- /.row -->
+      </div><!-- /.container -->
     </div>
     <!-- /.content -->
   </div>
